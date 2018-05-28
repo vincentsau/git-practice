@@ -1,7 +1,7 @@
 # git-practice
 
-sdslfjslfjs;f
-slkfjs;ljdfksflsj;fls
+hello
+nice to meet you
 
 i want to fuck u.
 
