@@ -1,7 +1,7 @@
 # git-practice
 
-sdslfjslfjs;f
-slkfjs;ljdfksflsj;fls
+hello
+nice to meet you
 
 sklfjs;ld
 
