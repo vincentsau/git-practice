@@ -1,0 +1,26 @@
+From 2481a33139b44f0f7ccbd64d7f29aaac3807575e Mon Sep 17 00:00:00 2001
+From: vincentsau <vincentiverson03@gmail.com>
+Date: Mon, 28 May 2018 11:36:52 +0800
+Subject: [PATCH] Update README.md
+
+---
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/README.md b/README.md
+index bc0ac22..6c0e88f 100644
+--- a/README.md
++++ b/README.md
+@@ -1,7 +1,7 @@
+ # git-practice
+ 
+-sdslfjslfjs;f
+-slkfjs;ljdfksflsj;fls
++hello
++nice to meet you
+ 
+okay ya ya
+ 
+-- 
+2.17.0.windows.1
+
